@@ -1,2 +1,2 @@
 # hystegram
-corporate soft fot nitifications
+corporate soft fot notifications
