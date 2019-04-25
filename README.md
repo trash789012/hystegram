@@ -1,2 +1,2 @@
 # hystegram
-corporate soft fot nitification
+corporate soft fot nitifications
